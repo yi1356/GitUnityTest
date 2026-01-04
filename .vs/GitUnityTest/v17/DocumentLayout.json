@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GitStudy\\Clone\\GitUnityTest\\GitUnityTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GitStudy\\Clone\\GitUnityTest\\GitUnityTest\\Assets\\txtTest\\Test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\txtTest\\Test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.txt",
+              "DocumentMoniker": "F:\\GitStudy\\Clone\\GitUnityTest\\GitUnityTest\\Assets\\txtTest\\Test.txt",
+              "RelativeDocumentMoniker": "Assets\\txtTest\\Test.txt",
+              "ToolTip": "F:\\GitStudy\\Clone\\GitUnityTest\\GitUnityTest\\Assets\\txtTest\\Test.txt",
+              "RelativeToolTip": "Assets\\txtTest\\Test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-04T13:51:56.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
